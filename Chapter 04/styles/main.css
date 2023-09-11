@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    float: left;
+    text-indent: 40px;
+    
+}
+
+header h2 {
+    color: steelblue;
+    font-style: italic;
+    text-shadow: 2px 2px;
+    font-size: 200%;
+
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h3 a {
+    color: maroon;
+}
+
+ul {
+    line-height: 1.6; 
+}
+
+ul a {
+    color: steelblue;
+}
+
+ul a:hover, a:focus {
+    color: maroon;
+}
+/* a:link, a:visited {
+    color: maroon;
+} */
+
+a:hover, a:focus {
+    color: steelblue;
+}
+
+footer  {
+    font-size: 75%;
+    text-align: center;
+}
+
